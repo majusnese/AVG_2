@@ -1,0 +1,20 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<expression:EMFExpression xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:expression="http:///expression.ecore" id="tMap_1=>" expression="row3.AdressId">
+  <variables name="row3.KundenId" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row3.IBAN" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row3.Einkommen" value="null" talendType="id_Float" nullable="true"/>
+  <variables name="row3.Kreditlimit" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row3.Score" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row3.Vorname" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row3.Nachname" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row3.Telefon" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row3.E_Mail" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row3.Geburtsdatum" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row3.Geschlecht" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row3.AdressId" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row4.address_id" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row4.Stra_e" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row4.PLZ" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row4.Ort" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row4.Land" value="null" talendType="id_String" nullable="true"/>
+</expression:EMFExpression>

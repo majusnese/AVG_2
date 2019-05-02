@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema>
+    <column comment="" default="" key="true" label="Address_ID"
+        length="-1" nullable="false" originalDbColumnName="Address_ID"
+        originalLength="-1" pattern="null" precision="0"
+        talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="Street" length="-1"
+        nullable="false" originalDbColumnName="Street"
+        originalLength="-1" pattern="" precision="-1"
+        talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="PLZ" length="-1"
+        nullable="false" originalDbColumnName="PLZ" originalLength="-1"
+        pattern="" precision="-1" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="Ort" length="-1"
+        nullable="false" originalDbColumnName="Ort" originalLength="-1"
+        pattern="" precision="-1" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="Land" length="-1"
+        nullable="false" originalDbColumnName="Land" originalLength="-1"
+        pattern="" precision="-1" talendType="id_String" type=""/>
+</schema>
