@@ -1,0 +1,3 @@
+%~d0
+cd %~dp0
+java -Dtalend.component.manager.m2.repository=%cd%/../lib -Xms256M -Xmx1024M -Dfile.encoding=UTF-8 -cp .;../lib/routines.jar;../lib/advancedPersistentLookupLib-1.2.jar;../lib/commons-beanutils-1.8.3.jar;../lib/commons-collections-3.2.2.jar;../lib/commons-lang-2.6.jar;../lib/commons-logging-1.1.1.jar;../lib/dom4j-1.6.1.jar;../lib/ezmorph-1.0.6.jar;../lib/jaxen-1.1.1.jar;../lib/jboss-serialization.jar;../lib/json-lib-2.4.1-talend.jar;../lib/json_simple-1.1.jar;../lib/jsonpath.jar;../lib/log4j-1.2.17.jar;../lib/staxon-1.2.jar;../lib/talend_file_enhanced_20070724.jar;../lib/talendcsv.jar;../lib/thashfile-3.0-20170711.jar;../lib/trove.jar;../lib/xom-1.2.7.jar;unifying_data_json_0_1.jar; marius.unifying_data_json_0_1.Unifying_Data_JSON  %*

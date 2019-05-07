@@ -5,18 +5,6 @@
     "type" : "job"
   },
   "relatedItems" : [ {
-    "id" : "_THogoGwmEemD49OgQJCOGQ",
-    "version" : "Latest",
-    "type" : "property"
-  }, {
-    "id" : "_egfPQGwmEemD49OgQJCOGQ",
-    "version" : "Latest",
-    "type" : "property"
-  }, {
-    "id" : "_zK2BoGwqEemAur2kIwSihg",
-    "version" : "Latest",
-    "type" : "property"
-  }, {
     "id" : "DataOperation",
     "version" : "Latest",
     "type" : "routine"
@@ -52,10 +40,6 @@
     "id" : "TalendStringUtil",
     "version" : "Latest",
     "type" : "routine"
-  }, {
-    "id" : "_0dXrUGzsEemMitpaa9pkeg - metadata",
-    "version" : "Latest",
-    "type" : "schema"
   }, {
     "id" : "_THogoGwmEemD49OgQJCOGQ - customer_schema",
     "version" : "Latest",
